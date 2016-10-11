@@ -6,7 +6,7 @@
 
 ## Description
 
-_Epicodus is a vocational school for aspiring programmers and this is the first website that we created at the school. It's purpose is to share what we will be learning. _
+Epicodus is a vocational school for aspiring programmers and this is the first website that we created at the school. It's purpose is to share what we will be learning.
 
 ## Setup/Installation Requirements
 
@@ -14,11 +14,11 @@ _Epicodus is a vocational school for aspiring programmers and this is the first 
 
 ## Known Bugs
 
-_None. _
+None.
 
 ## Support and contact details
 
-_If you run into any issues please contact Claire Sial at c.sial.723@gmail.com or annie Sonna @ nsab42@yahoo.com._
+If you run into any issues please contact Claire Sial at c.sial.723@gmail.com or annie Sonna @ nsab42@yahoo.com.
 
 ## Technologies Used
 
